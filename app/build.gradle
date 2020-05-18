@@ -4,7 +4,7 @@ android {
     compileSdkVersion 27
 
     defaultConfig {
-        applicationId "de.robv.android.xposed.installer"
+        applicationId "de.robv.android.xppsed.installer"
         minSdkVersion 15
         targetSdkVersion 25
         versionCode 43

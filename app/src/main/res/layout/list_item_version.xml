@@ -77,7 +77,7 @@
             </LinearLayout>
         </LinearLayout>
 
-        <de.robv.android.xposed.installer.widget.DownloadView
+        <de.robv.android.xppsed.installer.widget.DownloadView
             android:id="@+id/downloadView"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"/>
